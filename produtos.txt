@@ -1,0 +1,38 @@
+{
+    "1":{
+        "codigo": "1",
+        "nome": "X-salada",
+        "preco": 10.00
+      },
+    "2":{
+        "codigo":"2",
+        "nome": "X-burguer",
+        "preco": 10.00
+    },
+    "3":{
+        "codigo":"3",
+        "nome":"Cachorro-quente",
+        "preco":7.50
+    },
+
+    "4":{
+        "codigo":"4",
+        "nome":"Misto Quente",
+        "preco":8.00
+    },
+    "5":{
+        "codigo":"5",
+        "nome":"Salada de Frutas",
+        "preco":5.50
+    },
+    "6":{
+        "codigo":"6",
+        "nome":"Refrigerante",
+        "preco":4.50
+    },
+    "7":{
+        "codigo":"7",
+        "nome":"Suco Natural",
+        "preco":6.25
+    }   
+}    
